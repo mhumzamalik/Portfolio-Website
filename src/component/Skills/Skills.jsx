@@ -6,6 +6,7 @@ const skillsData = [
   { name: 'Css', value: 98, color: '#a78bfa' },
   { name: 'JavaScript', value: 95, color: '#4f46e5' },
   { name: 'React', value: 95, color: '#3b82f6' },
+  { name: 'Next.js', value: 96, color: '#54f63b' },
   { name: 'Tailwind CSS', value: 94, color: '#c084fc' },
   { name: 'TypeScript', value: 92, color: '#1d4ed8' },
 ]
