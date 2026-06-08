@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="hero-actions">
             <a className="hero-btn hero-btn-primary" href="#contact">Hire Me</a>
             <a className="hero-btn hero-btn-secondary" href="https://github.com/mhumzamalik" target="_blank" rel="noreferrer">Github</a>
-            <a className="hero-btn hero-btn-secondary" href="/MuhammadHamza.pdf" download>Resume</a>
+            <a className="hero-btn hero-btn-secondary" href="/MuhammadHamzaWeb.pdf" download>Resume</a>
           </div>
         </div>
 
