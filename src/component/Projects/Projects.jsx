@@ -8,7 +8,7 @@ const projectItems = [
     description: 'A modern task management application that helps users organize, track, and complete daily tasks efficiently.',
     highlight: 'React • CRUD • Task Management',
     accent: 'purple',
-    url: 'https://example.com/streamline',
+    url: 'https://muhammadhamza-todo.vercel.app/',
     image: '/TODO.PNG',
   },
   {
