@@ -2,8 +2,8 @@ import React from 'react'
 import './skills.css'
 
 const skillsData = [
-  { name: 'Html', value: 97, color: '#f87171' },
-  { name: 'Css', value: 98, color: '#a78bfa' },
+  { name: 'HTML5', value: 97, color: '#f87171' },
+  { name: 'CSS3', value: 98, color: '#a78bfa' },
   { name: 'JavaScript', value: 95, color: '#4f46e5' },
   { name: 'React', value: 95, color: '#3b82f6' },
   { name: 'Next.js', value: 96, color: '#54f63b' },

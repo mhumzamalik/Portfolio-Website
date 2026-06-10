@@ -3,13 +3,13 @@ import './projects.css'
 
 const projectItems = [
   {
-    title: 'StreamLine',
-    category: 'SaaS Dashboard',
-    description: 'A performance analytics dashboard built with React and animated charts.',
-    highlight: 'React • Charts • UX',
+    title: 'TODO App',
+    category: 'Productivity App',
+    description: 'A modern task management application that helps users organize, track, and complete daily tasks efficiently.',
+    highlight: 'React • CRUD • Task Management',
     accent: 'purple',
     url: 'https://example.com/streamline',
-    image: '/project-streamline.svg',
+    image: '/TODO.PNG',
   },
   {
     title: 'TravelMate',
