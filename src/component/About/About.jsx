@@ -30,7 +30,7 @@ export default function About() {
         <li>Node.js</li>
         <li>JavaScript</li>
         <li>Tailwindcss</li>
-        <li>Next.js</li>
+        <li>Express.js</li>
         <li>MongoDB</li>
       </ul>
     )

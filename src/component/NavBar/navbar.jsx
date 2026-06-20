@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <div className='navbar'>
       <h1>
-        MERN STACK<span className='logo'>.</span>
+        NEXT JS<span className='logo'>.</span>
       </h1>
 
       <button
