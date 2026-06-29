@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <div className='navbar'>
       <h1>
-        MERN<span className='logo'>.</span>
+        Web Developer<span className='logo'>.</span>
       </h1>
 
       <button

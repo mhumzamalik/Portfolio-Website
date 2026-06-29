@@ -2,10 +2,11 @@ import React from 'react'
 import './skills.css'
 
 const skillsData = [
+  { name: 'React', value: 95, color: '#3b82f6' },
+  { name: 'JavaScript', value: 95, color: '#4f46e5' },
+  { name: 'Next.js', value: 95, color: '#25c44c' },
   { name: 'HTML5', value: 97, color: '#f87171' },
   { name: 'CSS3', value: 98, color: '#a78bfa' },
-  { name: 'JavaScript', value: 95, color: '#4f46e5' },
-  { name: 'React', value: 95, color: '#3b82f6' },
   { name: 'Express.js', value: 96, color: '#54f63b' },
   { name: 'Tailwind CSS', value: 94, color: '#c084fc' },
   { name: 'TypeScript', value: 92, color: '#1d4ed8' },
