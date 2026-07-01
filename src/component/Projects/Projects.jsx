@@ -18,7 +18,7 @@ const projectItems = [
     highlight: 'Interactive Digital Menu',
     accent: 'blue',
     url: 'https://falafilorestaurantsmh.vercel.app/',
-    image: '/Falafilo.png',
+    image: '/falafilo.png',
   },
   {
     title: 'CryptoPulse',
